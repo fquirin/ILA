@@ -4,7 +4,11 @@ This is a fork of a "fork" of my old I.L.A. voice-assistant project.
 @hersche was so nice to copy it over from https://sites.google.com/site/ilavoiceassistant/ and thus saved the files since the links on the project page seem to be broken for a while now (and I did not even notice o_O).
 
 ILA has not been changed in the past 3 years, but there is a new member in the family called SEPIA, check it out:
-https://sepia-framework.github.io/
+https://sepia-framework.github.io/  
+
+<p align="center">
+  <img src="https://f511a514-a-62cb3a1a-s-sites.googlegroups.com/site/ilavoiceassistant/home/ILA_welcome.jpg" alt="I.L.A." width=500 />
+</p>
 
 ## Original readme by @hersche
 
